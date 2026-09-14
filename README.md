@@ -1,3 +1,14 @@
+<div align="center">
+
+# Piotrula_
+
+TFS · OTClient · C++ · Lua
+
+[![Website](https://img.shields.io/badge/danera.online-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://danera.online)
+[![Email](https://img.shields.io/badge/pmarek121%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pmarek121@gmail.com)
+
+---
+
 ### Languages & Technologies
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -17,6 +28,4 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
-### Contact
-
-**pmarek121@gmail.com**
+</div>
