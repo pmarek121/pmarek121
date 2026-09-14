@@ -7,6 +7,8 @@ TFS · OTClient · C++ · Lua
 [![Website](https://img.shields.io/badge/danera.online-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://danera.online)
 [![Email](https://img.shields.io/badge/pmarek121%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pmarek121@gmail.com)
 
+Most of my work is in **private repositories**. If you need something — contact me.
+
 ---
 
 ### Languages & Technologies
